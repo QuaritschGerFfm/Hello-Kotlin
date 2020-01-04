@@ -1,0 +1,1 @@
+kotlinc hkotlinc hello.kt -include-runtime -d hello.jarkotlinc hello.kt -include-runtime -d hello.jarello.kt -include-runtime -d hello.jar
